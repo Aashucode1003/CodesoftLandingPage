@@ -240,6 +240,7 @@ label input {
   padding:0px;
    gap:10px; 
 }
+/* responsive design for tablet */
 @media screen and (max-width: 991px){
     .nav-toggle{
       display: block;
@@ -285,6 +286,7 @@ label input {
     padding: 15px;
    }
 }
+/* Responsive design for mobileview */
 @media screen and (max-width: 767px){
   .nav-toggle{
     display: block;
